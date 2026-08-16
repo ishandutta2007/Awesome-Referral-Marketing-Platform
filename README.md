@@ -53,7 +53,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   The OS for your personal finances. Not strictly a referral marketing platform but built with open-source growth principles.
 - **[PostHog](https://github.com/PostHog/posthog)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Great for tracking referral campaigns and product-led growth.
->>>>>>> 308843dc330b3bbd1e5b9192ef1bf53a780e0b17
 - **[Dub](https://github.com/dubinc/dub)** [![Stars](https://img.shields.io/github/stars/dubinc/dub?style=social&color=white)](https://github.com/dubinc/dub/stargazers)  
   Popular open-source link attribution platform (open-core) powering short links, conversion tracking, and affiliate/partner programs. Used by major teams; supports self-hosting with powerful analytics and partner features. AGPLv3 (core).
 - **[Weferral](https://github.com/WeferralHq/weferral)** [![Stars](https://img.shields.io/github/stars/WeferralHq/weferral?style=social&color=white)](https://github.com/WeferralHq/weferral/stargazers)  
