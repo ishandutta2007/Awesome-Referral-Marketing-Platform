@@ -1,6 +1,16 @@
 # Awesome-Referral-Marketing-Platform
 
-## Top Referral Marketing Platforms Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Referral Marketing Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🚀 Top Referral Marketing Platforms Ecosystem
+A comprehensive and frequently updated directory of the best referral marketing software, affiliate tracking tools, and viral growth platforms available as SaaS or open-source projects.
+
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Customer Referral Programs, Affiliate Tracking, Viral Growth & Reward Automation*
 **Last updated: August 2026**
@@ -13,13 +23,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 | Platform | Description | Size (Est. ARR) | Pricing | Free Tier / Trial |
 |---|---|---|---|---|
@@ -38,7 +48,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Referral Factory](https://referral-factory.com/)** | No-code referral program builder with extensive templates, white-label options, and high-volume campaign support for businesses of all sizes. | ~$2M | Starting at $200/month | 15-day free trial |
 | **[GrowSurf](https://growsurf.com/)** | API-first, developer-friendly referral software built for SaaS and tech companies, with embeddable widgets, leaderboards, and participant-based scaling. | ~$1M | Starting at $125/month | 14-day free trial |
 
-## Open-Source GitHub Projects
+## 🌐 Open-Source GitHub Projects
+- **[Maybe](https://github.com/maybe-finance/maybe)** [![Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
+  The OS for your personal finances. Not strictly a referral marketing platform but built with open-source growth principles.
+- **[PostHog](https://github.com/PostHog/posthog)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+  Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Great for tracking referral campaigns and product-led growth.
 - **[Dub](https://github.com/dubinc/dub)** [![Stars](https://img.shields.io/github/stars/dubinc/dub?style=social&color=white)](https://github.com/dubinc/dub/stargazers)  
   Popular open-source link attribution platform (open-core) powering short links, conversion tracking, and affiliate/partner programs. Used by major teams; supports self-hosting with powerful analytics and partner features. AGPLv3 (core).
 - **[Weferral](https://github.com/WeferralHq/weferral)** [![Stars](https://img.shields.io/github/stars/WeferralHq/weferral?style=social&color=white)](https://github.com/WeferralHq/weferral/stargazers)  
@@ -56,7 +70,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OpenPartner](https://github.com/getcoherence/openpartner)** [![Stars](https://img.shields.io/github/stars/getcoherence/openpartner?style=social&color=white)](https://github.com/getcoherence/openpartner/stargazers)  
   Open-source affiliate + creator partnership platform with full attribution chain, Stripe Connect payouts, partner portal, and MIT license. Designed as an open alternative to closed partner tools.
 
-### Additional Strong Open-Source Options
+### 🔧 Additional Strong Open-Source Options
 - **[Link attribution & short-link engines](https://github.com/dubinc/dub)** and related community forks for building custom referral tracking.
 - **[Stripe-connected affiliate starters]** and self-hosted commission calculators on GitHub.
 - **[Referral link generators, cookie-based trackers, and webhook handlers]** for lightweight custom systems.
@@ -65,7 +79,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **RefRef / Refferq / RefearnApp** cores with **Dub** for attribution, **Stripe/Paddle webhooks**, **InfluxDB/Grafana** (or modern alternatives) for analytics dashboards, and simple reward fulfillment logic. Ideal for full data ownership and zero recurring SaaS fees.
 
-## How to Contribute
+## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -73,7 +87,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Referral and affiliate programs must comply with applicable advertising, consumer protection, and tax regulations in your jurisdiction.
 - Self-hosted open-source solutions require proper security, backup, and reliability practices (especially for financial/commission data).
@@ -82,3 +96,6 @@ Star the repo if you find it useful!
 **Made for SaaS founders, e-commerce brands, growth marketers, and developers.**  
 Let's make referral marketing more open, transparent, and accessible.
 
+
+## ⭐ Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Referral-Marketing-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Referral-Marketing-Platform&type=date&legend=top-left)
