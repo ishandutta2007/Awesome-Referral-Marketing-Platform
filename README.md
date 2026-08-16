@@ -39,22 +39,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[GrowSurf](https://growsurf.com/)** | API-first, developer-friendly referral software built for SaaS and tech companies, with embeddable widgets, leaderboards, and participant-based scaling. | ~$1M | Starting at $125/month | 14-day free trial |
 
 ## Open-Source GitHub Projects
-- **[RefRef](https://github.com/refrefhq/refref)**  
-  Modern open-source referral and affiliate marketing platform (Next.js + TypeScript). Self-hostable with Docker, JS tracking snippet, customizable rewards, referrer/partner portals, fraud monitoring, and webhooks. AGPLv3.
-- **[Refferq](https://github.com/Refferq/Refferq)**  
-  Feature-rich open-source affiliate management platform for SaaS (Next.js 15 + PostgreSQL). Includes admin & affiliate portals, real-time analytics, flexible commission rules, REST API (38+ endpoints), email notifications, and Docker/Vercel deployment. MIT.
-- **[RefearnApp](https://github.com/ZAK123DSFDF/refearnapp)**  
-  High-scale, self-hostable open-source alternative to Rewardful/FirstPromoter/Tolt. Built with Next.js, Cloudflare Edge, and Drizzle. Supports Stripe/Paddle, coupon tracking, PayPal mass payouts, advanced analytics, and full data ownership. AGPLv3.
-- **[Dub](https://github.com/dubinc/dub)**  
+- **[Dub](https://github.com/dubinc/dub)** [![Stars](https://img.shields.io/github/stars/dubinc/dub?style=social&color=white)](https://github.com/dubinc/dub/stargazers)  
   Popular open-source link attribution platform (open-core) powering short links, conversion tracking, and affiliate/partner programs. Used by major teams; supports self-hosting with powerful analytics and partner features. AGPLv3 (core).
-- **[OpenPartner](https://github.com/getcoherence/openpartner)**  
-  Open-source affiliate + creator partnership platform with full attribution chain, Stripe Connect payouts, partner portal, and MIT license. Designed as an open alternative to closed partner tools.
-- **[Numok](https://github.com/dfg-ar/numok)**  
-  Lightweight open-source affiliate platform built specifically for SaaS on top of Stripe. Self-hosted, MIT-licensed, focused on automatic commission tracking and ownership of growth data.
-- **[Weferral](https://github.com/WeferralHq/weferral)**  
+- **[Weferral](https://github.com/WeferralHq/weferral)** [![Stars](https://img.shields.io/github/stars/WeferralHq/weferral?style=social&color=white)](https://github.com/WeferralHq/weferral/stargazers)  
   Free open-source referral & affiliate tracking software (React + Node.js + PostgreSQL). Supports recurring/lifetime commissions, fixed/percentage rewards, and customizable affiliate portals. MIT (older but still usable).
-- **[schemeBeam](https://github.com/eemebarbe/schemeBeam)**  
+- **[RefRef](https://github.com/refrefhq/refref)** [![Stars](https://img.shields.io/github/stars/refrefhq/refref?style=social&color=white)](https://github.com/refrefhq/refref/stargazers)  
+  Modern open-source referral and affiliate marketing platform (Next.js + TypeScript). Self-hostable with Docker, JS tracking snippet, customizable rewards, referrer/partner portals, fraud monitoring, and webhooks. AGPLv3.
+- **[schemeBeam](https://github.com/eemebarbe/schemeBeam)** [![Stars](https://img.shields.io/github/stars/eemebarbe/schemeBeam?style=social&color=white)](https://github.com/eemebarbe/schemeBeam/stargazers)  
   Classic free viral/referral marketing tool (React/Node/MySQL) for building waitlist-style campaigns with invite links, leaderboards, and email capture. MIT.
+- **[Refferq](https://github.com/Refferq/Refferq)** [![Stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)  
+  Feature-rich open-source affiliate management platform for SaaS (Next.js 15 + PostgreSQL). Includes admin & affiliate portals, real-time analytics, flexible commission rules, REST API (38+ endpoints), email notifications, and Docker/Vercel deployment. MIT.
+- **[Numok](https://github.com/dfg-ar/numok)** [![Stars](https://img.shields.io/github/stars/dfg-ar/numok?style=social&color=white)](https://github.com/dfg-ar/numok/stargazers)  
+  Lightweight open-source affiliate platform built specifically for SaaS on top of Stripe. Self-hosted, MIT-licensed, focused on automatic commission tracking and ownership of growth data.
+- **[RefearnApp](https://github.com/ZAK123DSFDF/refearnapp)** [![Stars](https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white)](https://github.com/ZAK123DSFDF/refearnapp/stargazers)  
+  High-scale, self-hostable open-source alternative to Rewardful/FirstPromoter/Tolt. Built with Next.js, Cloudflare Edge, and Drizzle. Supports Stripe/Paddle, coupon tracking, PayPal mass payouts, advanced analytics, and full data ownership. AGPLv3.
+- **[OpenPartner](https://github.com/getcoherence/openpartner)** [![Stars](https://img.shields.io/github/stars/getcoherence/openpartner?style=social&color=white)](https://github.com/getcoherence/openpartner/stargazers)  
+  Open-source affiliate + creator partnership platform with full attribution chain, Stripe Connect payouts, partner portal, and MIT license. Designed as an open alternative to closed partner tools.
 
 ### Additional Strong Open-Source Options
 - **[Link attribution & short-link engines](https://github.com/dubinc/dub)** and related community forks for building custom referral tracking.
