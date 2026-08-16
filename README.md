@@ -20,34 +20,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[ReferralCandy](https://www.referralcandy.com/)**  
-  Leading e-commerce referral and affiliate platform with deep Shopify/WooCommerce/BigCommerce integrations, automated rewards (cash, discounts, store credit), and success-fee pricing.
-- **[Friendbuy](https://www.friendbuy.com/)**  
-  Enterprise-grade referral, loyalty, and influencer platform focused on DTC and mid-market brands with strong A/B testing, segmentation, and multi-channel sharing.
-- **[Talkable](https://www.talkable.com/)**  
-  Conversion-optimized referral marketing platform specializing in personalized experiences, testing, and high-ROI advocate programs for retail and e-commerce.
-- **[Extole](https://www.extole.com/)**  
-  Enterprise advocate marketing platform supporting referral, influencer, and brand ambassador programs with advanced fraud detection, compliance, and multi-channel campaigns.
-- **[Viral Loops](https://viral-loops.com/)**  
-  Template-driven referral platform modeled on successful campaigns (Dropbox, Harry’s, Robinhood) for waitlists, milestone rewards, giveaways, and SaaS/newsletter growth.
-- **[GrowSurf](https://growsurf.com/)**  
-  API-first, developer-friendly referral software built for SaaS and tech companies, with embeddable widgets, leaderboards, and participant-based scaling.
-- **[InviteReferrals](https://www.invitereferrals.com/)**  
-  Multi-channel referral and affiliate platform supporting flexible rewards, campaigns, and integrations for e-commerce and digital businesses.
-- **[Referral Rock](https://referralrock.com/)**  
-  Flexible mid-market referral software with strong automation, integrations (HubSpot, Salesforce, Zapier), and advisor support for service, e-commerce, and B2B programs.
-- **[FirstPromoter](https://firstpromoter.com/)**  
-  All-in-one affiliate and referral tracking platform purpose-built for SaaS and subscription businesses, with Stripe/Paddle sync, recurring commissions, and automated payouts.
-- **[Rewardful](https://www.rewardful.com/)**  
-  Lightweight, Stripe-native affiliate and referral software designed for SaaS founders who want fast setup, coupon tracking, and recurring commissions.
-- **[Mention Me](https://www.mention-me.com/)**  
-  AI-powered referral and micro-influencer platform popular in retail/EU markets, emphasizing name-sharing technology and data-driven advocate journeys.
-- **[Ambassador](https://www.getambassador.com/)**  
-  Enterprise referral and partner automation platform that turns customers, affiliates, and influencers into advocates with multi-channel tracking and dashboards.
-- **[SaaSquatch](https://www.saasquatch.com/)**  
-  Sophisticated referral and growth automation platform (now part of impact.com/advocate) for SaaS/subscription companies, with deep product integration and flexible rewards.
-- **[Referral Factory](https://referral-factory.com/)**  
-  No-code referral program builder with extensive templates, white-label options, and high-volume campaign support for businesses of all sizes.
+
+| Platform | Description | Pricing | Free Tier / Trial |
+|---|---|---|---|
+| **[ReferralCandy](https://www.referralcandy.com/)** | Leading e-commerce referral and affiliate platform with deep Shopify/WooCommerce/BigCommerce integrations, automated rewards (cash, discounts, store credit), and success-fee pricing. | Starting at ~$39/month + success fee | 7-day free trial |
+| **[Friendbuy](https://www.friendbuy.com/)** | Enterprise-grade referral, loyalty, and influencer platform focused on DTC and mid-market brands with strong A/B testing, segmentation, and multi-channel sharing. | Starting at ~$249/month (Starter plan) | No free tier or trial |
+| **[Talkable](https://www.talkable.com/)** | Conversion-optimized referral marketing platform specializing in personalized experiences, testing, and high-ROI advocate programs for retail and e-commerce. | Starting at ~$14,000/year (~$1,166/month) | No free tier or trial |
+| **[Extole](https://www.extole.com/)** | Enterprise advocate marketing platform supporting referral, influencer, and brand ambassador programs with advanced fraud detection, compliance, and multi-channel campaigns. | Starting at $999/month | No free tier or trial |
+| **[Viral Loops](https://viral-loops.com/)** | Template-driven referral platform modeled on successful campaigns (Dropbox, Harry’s, Robinhood) for waitlists, milestone rewards, giveaways, and SaaS/newsletter growth. | Starting at $35/month | 14-day free trial (Up to 10 participants limit) |
+| **[GrowSurf](https://growsurf.com/)** | API-first, developer-friendly referral software built for SaaS and tech companies, with embeddable widgets, leaderboards, and participant-based scaling. | Starting at $125/month | 14-day free trial |
+| **[InviteReferrals](https://www.invitereferrals.com/)** | Multi-channel referral and affiliate platform supporting flexible rewards, campaigns, and integrations for e-commerce and digital businesses. | Starting at $79/month | 14-day free trial (Up to 100 new referrers limit) |
+| **[Referral Rock](https://referralrock.com/)** | Flexible mid-market referral software with strong automation, integrations (HubSpot, Salesforce, Zapier), and advisor support for service, e-commerce, and B2B programs. | Starting at ~$250/month | 14 to 30-day free trial (1 program & 5 members limit) |
+| **[FirstPromoter](https://firstpromoter.com/)** | All-in-one affiliate and referral tracking platform purpose-built for SaaS and subscription businesses, with Stripe/Paddle sync, recurring commissions, and automated payouts. | Starting at $49/month | 14-day free trial |
+| **[Rewardful](https://www.rewardful.com/)** | Lightweight, Stripe-native affiliate and referral software designed for SaaS founders who want fast setup, coupon tracking, and recurring commissions. | Starting at $49/month | 14-day free trial |
+| **[Mention Me](https://www.mention-me.com/)** | AI-powered referral and micro-influencer platform popular in retail/EU markets, emphasizing name-sharing technology and data-driven advocate journeys. | Enterprise Quote (Bespoke revenue-based pricing) | No free tier or trial |
+| **[Ambassador](https://www.getambassador.com/)** | Enterprise referral and partner automation platform that turns customers, affiliates, and influencers into advocates with multi-channel tracking and dashboards. | Starting at ~$300/month | No free tier or trial |
+| **[SaaSquatch](https://www.saasquatch.com/)** | Sophisticated referral and growth automation platform (now part of impact.com/advocate) for SaaS/subscription companies, with deep product integration and flexible rewards. | Starting at ~$500/month | No free tier or trial |
+| **[Referral Factory](https://referral-factory.com/)** | No-code referral program builder with extensive templates, white-label options, and high-volume campaign support for businesses of all sizes. | Starting at $200/month | 15-day free trial |
 
 ## Open-Source GitHub Projects
 - **[RefRef](https://github.com/refrefhq/refref)**  
